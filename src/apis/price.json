@@ -1,0 +1,767 @@
+[{
+        "id": "1",
+        "service": "Cắt Mí",
+        "note": [],
+        "row": [{
+                "dv": "Bấm mí Hàn Quốc đa điểm",
+                "ud": "20% (Giảm 40% khi kết hợp chỉnh sụp mí bẩm sinh/ nâng cung mày)",
+                "gia": "9Tr",
+                "giaKM": "7,2Tr"
+
+            },
+            {
+                "dv": "Cắt mí Hàn Quốc Plasma (Gói tiêu chuẩn)",
+                "ud": "20%",
+                "gia": "9Tr",
+                "giaKM": "7,2Tr"
+
+            },
+            {
+                "dv": "Cắt mí 6D (mới) – Gói công nghệ cao",
+                "ud": "20% (Giảm 40% cho DV Cắt mí 6D thứ 2)",
+                "gia": "16",
+                "giaKM": "12,8Tr"
+
+            },
+            {
+                "dv": "Cắt mí PERFECT EYES - Gói công nghệ đỉnh cao, ưu việt nhất ",
+                "ud": "20% (Giảm 40% DV Cắt mí Perfect Eyes thứ 2 )",
+                "gia": "29Tr",
+                "giaKM": "23,2Tr"
+
+            },
+            {
+                "dv": "Cắt mí PERFECT EYES - DR. Richard Huy ",
+                "ud": "20%",
+                "gia": "39Tr",
+                "giaKM": "31,2Tr"
+
+            },
+            {
+                "dv": "Lấy mỡ nội soi mí trên/ dưới; Tạo khóe mắt trong/ ngoài",
+                "ud": "0% (Giảm 35% khi kết hợp cùng cắt mí – còn 4,55TR)",
+                "gia": "7Tr",
+                "giaKM": "7Tr"
+
+            },
+            {
+                "dv": "Chỉnh hình sụp mí bẩm sinh (Treo/ hạ cơ nâng mi)",
+                "ud": "20%",
+                "gia": "12Tr",
+                "giaKM": "9,6Tr"
+
+            },
+            {
+                "dv": "Xoá rãnh lệ",
+                "ud": "15%",
+                "gia": "12Tr",
+                "giaKM": "10,2Tr"
+
+            },
+            {
+                "dv": "Cấy mỡ/ ghép mỡ mí trên hoặc dưới",
+                "ud": "20% (Giảm 40% khi Cắt mí/ bấm mí/ nâng cung, khi làm lần 2, 3…)",
+                "gia": "14Tr",
+                "giaKM": "11,2Tr"
+
+            },
+            {
+                "dv": "Nâng cung chân mày không phun",
+                "ud": "20%",
+                "gia": "9Tr",
+                "giaKM": "7,2Tr"
+
+            },
+            {
+                "dv": "Combo Cắt mí dưới + Ghép Megaderm",
+                "ud": "10%",
+                "gia": "35Tr",
+                "giaKM": "31,5Tr"
+
+            },
+            {
+                "dv": "Combo Cắt mí dưới + Trẻ hóa (căng da) vùng mắt Mid-Face",
+                "ud": "10%",
+                "gia": "35Tr",
+                "giaKM": "31,5Tr"
+
+            },
+            {
+                "dv": "Thẩm mỹ mắt bồ câu (Cắt mí Hàn Quốc Plasma + Lấy mỡ + Thu ngắn cơ nâng mi)",
+                "ud": "15%",
+                "gia": "20Tr",
+                "giaKM": "17Tr"
+
+            },
+            {
+                "dv": "Phẫu thuật chỉnh hình mắt khó (phẫu thuật hỏng, tai nạn, bẩm sinh…)",
+                "ud": "20%",
+                "gia": "",
+                "giaKM": ""
+
+            },
+            {
+                "dv": "Phí mắt sửa lại",
+                "ud": "Giảm 1 Triệu",
+                "gia": "",
+                "giaKM": ""
+            },
+            {
+                "dv": "+Gói Extra – Nhóm mắt và các dịch vụ khác",
+                "ud": "40%",
+                "gia": "3Tr",
+                "giaKM": "1,8Tr"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "service": "Nâng Mũi",
+        "note": [],
+        "row": [{
+                "dv": "Nâng mũi Sline 3D, Line 3D",
+                "ud": "20%",
+                "gia": "25Tr",
+                "giaKM": "20Tr"
+
+            },
+            {
+                "dv": "Nâng mũi cấu trúc 4D - Gói nâng mũi tiêu chuẩn",
+                "ud": "25%",
+                "gia": "35Tr",
+                "giaKM": "26,25Tr"
+
+            },
+            {
+                "dv": "Nâng mũi cấu trúc 4D SURGIFORM",
+                "ud": "25%",
+                "gia": "64Tr",
+                "giaKM": "48Tr"
+
+            },
+            {
+                "dv": "Nâng mũi cấu trúc 4D NANOFORM",
+                "ud": "20%",
+                "gia": "49Tr",
+                "giaKM": "39,2Tr"
+
+            },
+            {
+                "dv": "Nâng mũi 6D KHÔNG ĐAU (mới) – Gói nâng mũi công nghệ cao Hàn Quốc",
+                "ud": "25% (30 suất đầu tiên)",
+                "gia": "49Tr",
+                "giaKM": "36,75Tr"
+
+            },
+            {
+                "dv": "Nâng mũi 6D NANOFORM - Công nghệ nâng mũi 6D không đau với sụn Hoa Kỳ ",
+                "ud": "25% (10 suất đầu tiên)",
+                "gia": "59Tr",
+                "giaKM": "44,25Tr"
+
+            },
+            {
+                "dv": "Nâng mũi 6D SURGIFORM - Công nghệ nâng mũi không đau với sụn cao cấp Hoa Kỳ, bác sĩ Trưởng/ phó khoa thực hiện ",
+                "ud": "25% (10 suất đầu tiên)",
+                "gia": "74Tr",
+                "giaKM": "55,5Tr"
+
+            },
+            {
+                "dv": "Nâng mũi 6D SURGIFORM – Dr. Richard Huy ",
+                "ud": "20%",
+                "gia": "84Tr",
+                "giaKM": "67,2Tr"
+
+            },
+            {
+                "dv": "Nâng mũi sụn sườn NANOFORM - Bác sĩ Trưởng/phó khoa thực hiện, thiết kế mũi 3D xem trước kết quả ",
+                "ud": "25%",
+                "gia": "79Tr",
+                "giaKM": "59,25Tr"
+
+            },
+            {
+                "dv": "Nâng mũi sụn sườn SURGIFORM - Bác sĩ Trưởng/phó khoa thực hiện, thiết kế mũi 3D xem trước kết quả ",
+                "ud": "25%",
+                "gia": "94Tr",
+                "giaKM": "70,5Tr"
+
+            },
+            {
+                "dv": "Nâng mũi sụn sườn SURGIFORM - Dr.Richard Huy ",
+                "ud": "20%",
+                "gia": "104Tr",
+                "giaKM": "83,2Tr"
+
+            },
+            {
+                "dv": "Nâng mũi sụn sườn 100% - Bác sĩ Trưởng/phó khoa thực hiện, thiết kế mũi 3D xem trước kết quả ",
+                "ud": "10%",
+                "gia": "98Tr",
+                "giaKM": "88,2Tr"
+
+            },
+            {
+                "dv": "Nâng mũi sụn sườn 100% - Dr. Richard Huy",
+                "ud": "10%",
+                "gia": "109Tr",
+                "giaKM": "98,1Tr"
+
+            },
+            {
+                "dv": "Thu nhỏ cánh mũi/ Thu nhỏ đầu mũi",
+                "ud": "Giảm 40% khi cùng nâng mũi",
+                "gia": "6Tr",
+                "giaKM": "3,6Tr"
+
+            },
+            {
+                "dv": "Mài gồ/ chỉnh xương mũi",
+                "ud": "Giảm 50% khi cùng nâng mũi",
+                "gia": "15Tr",
+                "giaKM": "7,5Tr"
+
+            },
+            {
+                "dv": "Phí mũi sửa lại",
+                "ud": "Giảm 2 Triệu",
+                "gia": "",
+                "giaKM": ""
+
+            },
+            {
+                "dv": "Với dịch vụ cắt cánh mũi sửa lại thì tính phí sửa lại là 3 Triệu",
+                "ud": "",
+                "gia": "",
+                "giaKM": ""
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "service": "Nâng Ngực",
+        "note": [
+            "- Khách hàng đăng ký 1 dịch vụ thẩm mỹ ngực bất kỳ trên được:",
+            " + Giảm 30% nhóm dịch vụ phẫu thuật thẩm mỹ vùng kín",
+            " + Giảm 45% Trị liệu hồi sinh da So Young"
+        ],
+        "row": [{
+                "dv": "Nâng ngực K- Eco – Chỉ dùng túi Motiva 8000 tiếp điểm",
+                "ud": "20%",
+                "gia": "54Tr",
+                "giaKM": "43,2Tr"
+
+            },
+            {
+                "dv": "Nâng ngực K-Nature 4D – Túi Motiva mới 49000 tiếp điểm",
+                "ud": "25%",
+                "gia": "69Tr",
+                "giaKM": "51,75Tr"
+
+            },
+            {
+                "dv": "Nâng ngực 6D KHÔNG CHẠM (mới) - Không sẹo, hồi phục nhanh gấp 2",
+                "ud": "25% (20 suất đầu tiên)",
+                "gia": "79Tr",
+                "giaKM": "59,25Tr"
+
+            },
+            {
+                "dv": "Nâng ngực 6D VIP - Công nghệ đỉnh cao, chuyên gia bậc nhất, dịch vụ tốt nhất",
+                "ud": "20% (10 suất đầu tiên)",
+                "gia": "109Tr",
+                "giaKM": "87,2Tr"
+
+            },
+            {
+                "dv": "Nâng ngực 6D VIP - Dr. Richard Huy",
+                "ud": "15%",
+                "gia": "119Tr",
+                "giaKM": "101,15Tr"
+
+            },
+            {
+                "dv": "Nâng ngực 6D Nanofat – Combo đặt túi Motiva không chip/ Mentor gel tròn + cấy mỡ",
+                "ud": "20%",
+                "gia": "120Tr",
+                "giaKM": "96Tr"
+
+            },
+            {
+                "dv": "Tạo Hình Vú (Combo Thu gọn vú + Treo ngực sa trễ + Thu quầng)",
+                "ud": "20%",
+                "gia": "95Tr",
+                "giaKM": "76Tr"
+
+            },
+            {
+                "dv": "Tạo Hình Vú + Nâng ngực K-Nature 4D (Dùng túi Motiva không chip)",
+                "ud": "20%",
+                "gia": "120Tr",
+                "giaKM": "96Tr"
+
+            },
+            {
+                "dv": "Treo ngực sa trễ + Thu quầng + Nâng ngực K-Nature 4D (Túi Motiva không chip)",
+                "ud": "20%",
+                "gia": "95Tr",
+                "giaKM": "76Tr"
+
+            },
+            {
+                "dv": "Nâng cấp túi Motiva có Chip",
+                "ud": "Thêm phí túi 10 triệu",
+                "gia": "",
+                "giaKM": ""
+
+            },
+            {
+                "dv": "Nâng cấp túi Motiva Chip linh hoạt / Mentor Xtra",
+                "ud": "Thêm phí túi 18 triệu",
+                "gia": "",
+                "giaKM": ""
+
+            },
+            {
+                "dv": "Nâng ngực bằng mỡ tự thân",
+                "ud": "20% (Giảm 40% khi thực hiện lần 2, 3…)",
+                "gia": "70Tr",
+                "giaKM": "56Tr"
+
+            },
+            {
+                "dv": "Thu quầng vú + Treo ngực / Treo ngực sa trễ",
+                "ud": "20%",
+                "gia": "",
+                "giaKM": ""
+
+            },
+            {
+                "dv": "Kéo núm vú tụt",
+                "ud": "10%",
+                "gia": "20Tr",
+                "giaKM": "18Tr"
+
+            },
+            {
+                "dv": "Thu nhỏ quầng vú",
+                "ud": "10%",
+                "gia": "20Tr",
+                "giaKM": "18Tr"
+
+            },
+            {
+                "dv": "Thu nhỏ quầng vú",
+                "ud": "Giảm 30% khi làm cùng nâng ngực",
+                "gia": "20Tr",
+                "giaKM": "14Tr"
+
+            },
+            {
+                "dv": "Tạo hình thu nhỏ đầu vú",
+                "ud": "10%",
+                "gia": "12Tr",
+                "giaKM": "10,8Tr"
+
+            },
+            {
+                "dv": "Tạo hình thu nhỏ đầu vú",
+                "ud": "Giảm 30% khi làm cùng nâng ngực",
+                "gia": "12Tr",
+                "giaKM": "8,4Tr"
+
+            },
+            {
+                "dv": "Làm hồng nhũ hoa",
+                "ud": "30%",
+                "gia": "",
+                "giaKM": ""
+
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "service": "Hàm Mặt",
+        "note": [
+            "- Giảm 30%: Cấy mỡ làm đầy toàn bộ khuôn mặt/ Căng da mặt bằng chỉ/ Tháo nẹp vít (tính giảm trên 1 hàm) ",
+            "- Giảm 30% Chỉnh nha mắc cài kim loại (giá gốc từ 30 Triệu – cả khách cũ và mới thực hiện hàm mặt tại Kangnam) ",
+            "- Giảm 25% Niềng răng khay trong khi làm hàm mặt/ hoặc từng làm hàm mặt Kangnam ",
+            "- Giảm 30% Sửa sẹo môi khi chỉnh hàm",
+            "- Giảm 40%: Phục hình răng sứ cố định thẩm mỹ 6 – 8 triệu/ răng"
+        ],
+        "row": [{
+                "dv": "Chỉnh hàm hô Mini 3D (1 hàm)",
+                "ud": "20%",
+                "gia": "60Tr",
+                "giaKM": "48Tr"
+
+            },
+            {
+                "dv": "Chỉnh hình hàm hô/ móm 3D / Hạ gò má 3D/ Thu gọn góc hàm Vline 3D",
+                "ud": "25% (Giảm 35% khi làm từ 2DV trở lên)",
+                "gia": "74Tr",
+                "giaKM": "55,5Tr"
+
+            },
+            {
+                "dv": "Chỉnh hình hàm hô móm 3D 1 hàm trên/ dưới khó (ghép xương/ xoay trục hàm...)",
+                "ud": "10%",
+                "gia": "90Tr",
+                "giaKM": "81Tr"
+
+            },
+            {
+                "dv": "Chỉnh hình hàm hô/ móm 6D / Hạ gò má 6D/ Thu gọn góc hàm Vline 6D",
+                "ud": "25% (Giảm 35% khi làm từ 2DV trở lên)",
+                "gia": "94Tr",
+                "giaKM": "70,5Tr"
+
+            },
+            {
+                "dv": "Trượt cằm 3D/ Gọt cằm 3D (Độn cằm tự thân 3D)",
+                "ud": "15%",
+                "gia": "45Tr",
+                "giaKM": "38,25Tr"
+
+            },
+            {
+                "dv": "Trượt cằm 3D/ Gọt cằm 3D (Độn cằm tự thân 3D)",
+                "ud": "Giảm 35% khi kết hợp với 1 DV(chỉnh 1 hàm/ Hạ gò má/ Gọt hàm)",
+                "gia": "45Tr",
+                "giaKM": "29,25Tr"
+
+            },
+            {
+                "dv": "Trượt cằm 3D/ Gọt cằm 3D (Độn cằm tự thân 3D)",
+                "ud": "Giảm 40% khi làm với 2 DV hàm mặt (chỉnh hàm/ hạ gò má/ gọt hàm)",
+                "gia": "45Tr",
+                "giaKM": "27Tr"
+
+            },
+            {
+                "dv": "Độn cằm tự thân 6D",
+                "ud": "25%",
+                "gia": "60Tr",
+                "giaKM": "45Tr"
+
+            },
+            {
+                "dv": "Nâng gò má bằng chất liệu độn Silicon",
+                "ud": "25%",
+                "gia": "25Tr",
+                "giaKM": "18,75Tr"
+
+            },
+            {
+                "dv": "Nâng gò má/ Góc hàm (1 bên) bằng chất liệu sinh học",
+                "ud": "10%",
+                "gia": "40Tr",
+                "giaKM": "36Tr"
+
+            },
+            {
+                "dv": "Độn thái dương",
+                "ud": "25%",
+                "gia": "30Tr",
+                "giaKM": "22,5Tr"
+
+            },
+            {
+                "dv": "Phẫu thuật cười hở lợi",
+                "ud": "20%",
+                "gia": "12Tr",
+                "giaKM": "9,6Tr"
+
+            },
+            {
+                "dv": "Độn cằm Hàn Quốc (chất liệu thông thường)",
+                "ud": "25%",
+                "gia": "20Tr",
+                "giaKM": "15Tr"
+
+            },
+            {
+                "dv": "Độn cằm 6D (chất liệu Mỹ)",
+                "ud": "25%",
+                "gia": "34Tr",
+                "giaKM": "25,5Tr"
+
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "service": "Giảm Mỡ",
+        "note": [
+            "*Tặng chiếu Plasma lạnh cho khách hàng hút mỡ và căng da tạo hình thành bụng"
+        ],
+        "row": [{
+                "dv": "Giảm mỡ bụng VASER 4D (Bụng trên/dưới/eo) - Cân nặng 50 - 59kg",
+                "ud": "(*Giảm 20%: Khi làm lẻ), (*Giảm 40%: Khi làm 2 vùng), (*Giảm 50%: Làm 3 vùng trở lên",
+                "gia": "25Tr",
+                "giaKM": "20Tr"
+
+            },
+            {
+                "dv": "Giảm mỡ bụng VASER 4D (Bụng trên/dưới/eo) - Cân nặng 60 - 70kg ",
+                "ud": "(*Giảm 20%: Khi làm lẻ), (*Giảm 40%: Khi làm 2 vùng), (*Giảm 50%: Làm 3 vùng trở lên)",
+                "gia": "30Tr",
+                "giaKM": "24Tr"
+            },
+            {
+                "dv": "Giảm mỡ bụng VASER 4D (Bụng trên/dưới/eo) - Cân nặng 70 - 100kg ",
+                "ud": "(*Giảm 20%: Khi làm lẻ), (*Giảm 40%: Khi làm 2 vùng), (*Giảm 50%: Làm 3 vùng trở lên)",
+                "gia": "35Tr",
+                "giaKM": "28Tr"
+
+            },
+            {
+                "dv": "Giảm mỡ bụng VASER 4D (Bụng trên/dưới/eo) - Cân nặng trên 100kg ",
+                "ud": "(*Giảm 20%: Khi làm lẻ), (*Giảm 40%: Khi làm 2 vùng), (*Giảm 50%: Làm 3 vùng trở lên)",
+                "gia": "40Tr",
+                "giaKM": "32Tr"
+
+            },
+            {
+                "dv": "Giảm mỡ VASER 4D tay/lưng/ nách/ vai/ cằm/ má/ hông/bắp chân",
+                "ud": "(*Giảm 20%: Khi làm lẻ), (*Giảm 40%: Khi làm 2 vùng), (*Giảm 50%: Làm 3 vùng trở lên)",
+                "gia": "30Tr",
+                "giaKM": "24Tr"
+
+            },
+            {
+                "dv": "Giảm mỡ đùi",
+                "ud": "20%",
+                "gia": "60Tr",
+                "giaKM": "48Tr"
+
+            },
+            {
+                "dv": "Giảm mỡ mông",
+                "ud": "20%",
+                "gia": "40Tr",
+                "giaKM": "32Tr"
+
+            },
+            {
+                "dv": "Căng da tạo hình bụng mini",
+                "ud": "10% (Giảm 50% khi làm giảm mỡ)",
+                "gia": "40Tr",
+                "giaKM": "36Tr"
+
+            },
+            {
+                "dv": "Căng da tạo hình bụng toàn thể",
+                "ud": "10% (Giảm 50% khi làm giảm mỡ)",
+                "gia": "60Tr",
+                "giaKM": "54Tr"
+            },
+            {
+                "dv": "Giảm mỡ bụng + Tạo hình thành bụng 6 múi - Tất cả mức cân nặng",
+                "ud": "10%",
+                "gia": "",
+                "giaKM": ""
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "service": "Cấy Mỡ",
+        "note": [],
+        "row": [{
+                "dv": "Cấy mỡ 1 vùng: Má/ Thái dương/ Rãnh mũi má/ Môi trên/ dưới/ Môi lớn + bé",
+                "ud": "10% (Giảm 40% các lần tiếp theo)",
+                "gia": "20Tr",
+                "giaKM": "18Tr"
+
+            },
+            {
+                "dv": "Cấy mỡ làm đầy toàn bộ khuôn mặt (trên 3 vùng)",
+                "ud": "25%",
+                "gia": "35Tr",
+                "giaKM": "26,25Tr"
+
+            },
+            {
+                "dv": "Cấy mỡ làm đầy toàn bộ khuôn mặt (trên 3 vùng)",
+                "ud": "Giảm 40% các lần tiếp theo",
+                "gia": "",
+                "giaKM": ""
+
+            },
+            {
+                "dv": "Cấy mỡ làm đầy toàn bộ khuôn mặt (trên 3 vùng)",
+                "ud": "Giảm 50% khi kết hợp với căng da mặt",
+                "gia": "",
+                "giaKM": ""
+
+            },
+            {
+                "dv": "Cấy mỡ mu bàn tay + Ngón tay 2 bên",
+                "ud": "30% (Giảm 40% các lần tiếp theo)",
+                "gia": "30Tr",
+                "giaKM": "21Tr"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "service": "Trẻ Hóa Da",
+        "note": [
+        ],
+        "row": [
+            {
+                "dv": "Trẻ hóa Mi Young ( cấp độ 1) ",
+                "ud": "25%",
+                "gia": "47Tr",
+                "giaKM": "35,25Tr"
+
+            },
+            {
+                "dv": "Trẻ hóa Mi Young ( cấp độ 2) ",
+                "ud": "25%",
+                "gia": "57Tr",
+                "giaKM": "42,75Tr"
+
+            },
+            {
+                "dv": "Trẻ hóa Mi Young ( cấp độ 3) ",
+                "ud": "25%",
+                "gia": "87Tr",
+                "giaKM": "65,25Tr"
+
+            },
+            {
+                "dv": "Trẻ hóa Mi Young Pro ( cấp độ 1)",
+                "ud": "25%",
+                "gia": "77Tr",
+                "giaKM": "57,75Tr"
+
+            },
+            {
+                "dv": "Trẻ hóa Mi Young Pro ( cấp độ 2)",
+                "ud": "25%",
+                "gia": "97Tr",
+                "giaKM": "72,75Tr"
+
+            },
+            {
+                "dv": "Trẻ hóa Mi Young Pro ( cấp độ 3)",
+                "ud": "25%",
+                "gia": "137Tr",
+                "giaKM": "102,75Tr "
+            },
+            {
+                "dv": "Trẻ hóa Mi Young VIP ( cấp độ 1)",
+                "ud": "25%",
+                "gia": "97Tr",
+                "giaKM": "72,75Tr"
+            },
+            {
+                "dv": "Trẻ hóa Mi Young VIP ( cấp độ 2)",
+                "ud": "25%",
+                "gia": "137Tr",
+                "giaKM": "102,75Tr"
+            },
+            {
+                "dv": "Trẻ hóa Mi Young VIP ( cấp độ 3)",
+                "ud": "25%",
+                "gia": "197Tr",
+                "giaKM": "147,75Tr"
+            },
+            {
+                "dv": "Trẻ hóa Forever Young ( cấp độ 1)",
+                "ud": "25%",
+                "gia": "127Tr",
+                "giaKM": "95,25Tr "
+
+            },
+            {
+                "dv": "Trẻ hóa Forever Young ( cấp độ 2)",
+                "ud": "25%",
+                "gia": "177Tr",
+                "giaKM": "132,75Tr"
+            },
+            {
+                "dv": "Trẻ hóa Forever Young ( cấp độ 3)",
+                "ud": "25%",
+                "gia": "247Tr",
+                "giaKM": "185,25Tr"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "service": "Tạo Hình Môi",
+        "note": [],
+        "row": [{
+                "dv": "Tạo môi hình trái tim / Tạo môi chẻ (môi dưới)",
+                "ud": "20%",
+                "gia": "10Tr",
+                "giaKM": "8Tr"
+            },
+            {
+                "dv": "Thu mỏng môi (1 môi trên/ dưới)",
+                "ud": "20%",
+                "gia": "8Tr",
+                "giaKM": "6,4Tr"
+            },
+            {
+                "dv": "Combo Thu mỏng môi + Tạo môi trái tim/ Tạo khóe cười",
+                "ud": "20%",
+                "gia": "15Tr",
+                "giaKM": "12Tr"
+            },
+            {
+                "dv": "Sửa sẹo môi mức 1",
+                "ud": "20%",
+                "gia": "10Tr",
+                "giaKM": "8Tr"
+            },
+            {
+                "dv": "Sửa sẹo môi mức 2/ Tạo hình môi hờn dỗi (cánh cung/ sừng trâu)",
+                "ud": "20%",
+                "gia": "20Tr",
+                "giaKM": "16Tr"
+            }
+        ]
+    },{
+        "id": "9",
+        "service": "Căng Da (PT)",
+        "note": [
+        ],
+        "row": [{
+                "dv": "Căng da mặt 3D",
+                "ud": "20%",
+                "gia": "60Tr",
+                "giaKM": "48Tr"
+            },
+            {
+                "dv": "Căng da trán/ Căng da cổ/ Hạ đường chân tóc",
+                "ud": "20%",
+                "gia": "50Tr",
+                "giaKM": "40Tr"
+            },
+            {
+                "dv": "Căng da cổ (khi làm kết hợp với căng da mặt)",
+                "ud": "50%",
+                "gia": "50Tr",
+                "giaKM": "25Tr"
+            },
+            {
+                "dv": "Căng da vùng thái dương",
+                "ud": "20% (Giảm 30% khi cắt mí)",
+                "gia": "35Tr",
+                "giaKM": "28Tr"
+            },
+            {
+                "dv": "Chỉnh hình liệt mặt",
+                "ud": "20%",
+                "gia": "80Tr",
+                "giaKM": "64Tr"
+            }
+        ]
+    }
+]

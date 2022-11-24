@@ -1,0 +1,142 @@
+[{
+        "id": "1",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Kiểm tra sức khỏe",
+            "Đo vẽ",
+            "Gây tê cục bộ",
+            "Phẫu thuật tạo hình 2 mí bằng dao Plasma",
+            "Khâu đóng thẩm mỹ bằng chỉ Nano vi phẫu",
+            "Chiếu tia Plasma lạnh giảm viêm, giảm sưng",
+            "Chườm mát, dùng thuốc giảm viêm sưng do BV cấp",
+            "Tự chăm sóc hậu phẫu tại nhà "
+        ],
+        "image": [
+            "assets/images/qt-catmi.jpg"
+        ],
+        "service": "Cắt Mí"
+    },
+    {
+        "id": "2",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Kiểm tra sức khỏe",
+            "Đo vẽ",
+            "Gây tê/ Tiền mê",
+            "Phẫu thuật nâng mũi",
+            "Nẹp mũi"
+        ],
+        "image": [
+            "assets/images/qt-nangmui.jpg"
+        ],
+        "service": "Nâng Mũi"
+    },
+    {
+        "id": "3",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Kiểm tra sức khỏe",
+            "Đo vẽ",
+            "Gây mê",
+            "Phẫu thuật nâng ngực"
+        ],
+        "image": [
+            "assets/images/qt-nangnguc.jpg"
+        ],
+        "service": "Nâng Ngực"
+    },
+    {
+        "id": "4",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Kiểm tra sức khỏe",
+            "Đo vẽ",
+            "Gây mê",
+            "Hút mỡ"
+        ],
+        "image": [
+            "assets/images/qt-hutmo.jpg"
+        ],
+        "service": "Giảm Mỡ"
+    },
+    {
+        "id": "5",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Scan khớp cắn chụp CT 3 chiều >> Dựng 3D",
+            "Kiểm tra sức khỏe ",
+            "Khảo sát các thông số góc độ 3D",
+            "Chẩn đoán và hội chẩn phương án phẫu thuật",
+            "Sản xuất vật liệu y khoa",
+            "Phẫu thuật giả định trên mô hình",
+            "Điều chỉnh phương án chuẩn xác nhất",
+            "Phẫu thuật"
+        ],
+        "image": [
+            "assets/images/qt-hammat.jpg"
+        ],
+        "service": "Hàm Mặt"
+    },
+    {
+        "id": "6",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Đo vẽ, xác định vùng cấy mỡ",
+            "Lấy mỡ vùng thừa",
+            "Chiết tách li tâm, lọc ra tinh thể mỡ tốt nhất",
+            "Cấy tinh thể mỡ"
+        ],
+        "image": [
+            "assets/images/qt-caymo.jpg"
+        ],
+        "service": "Cấy Mỡ"
+    },
+    {
+        "id": "7",
+        "process": [
+            "Tư vấn thăm khám với bác sĩ",
+            "Bác sĩ đưa phác đồ cá nhân hóa phù hợp tình trạng",
+            "Kiểm tra sức khỏe",
+            "Tiến hành vô khuẩn, đo vẽ vùng da thực hiện",
+            "Vô cảm bằng phương pháp tiền mê không đau",
+            "Tiến hành trẻ hóa da",
+            "Kiểm tra kết quả và kết thúc điều trị",
+            "Hướng dẫn chăm sóc tại theo chỉ định"
+        ],
+        "image": [
+            "assets/images/qt-cangda.jpg"
+        ],
+        "service": "Trẻ Hóa Da"
+    },
+    {
+        "id": "8",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Kiểm tra sức khỏe",
+            "Đo vẽ vùng môi cần phẫu thuật",
+            "Vô cảm bằng phương pháp gây tê",
+            "Tiến hành phẫu thuật & khâu đóng thẩm mỹ"
+        ],
+        "image": [
+            "assets/images/qt-taohinhmoi.jpg"
+        ],
+        "service": "Tạo Hình Môi"
+    },
+    {
+        "id": "7",
+        "process": [
+            "Tư vấn, thăm khám",
+            "Kiểm tra sức khỏe tiền phẫu thuật",
+            "Sát khuẩn, đo vẽ vùng da cần căng",
+            "Vô cảm bẳng phương pháp gây mê",
+            "Tiền hành căng da, loai bỏ hết vùng da chùng, chảy xệ",
+            "Khẩu thẩm mỹ ở vùng da, kết thúc phẫu thuật",
+            "Chuyển về phòng hẫu phẫu chăm sóc",
+            "Chăm sóc theo chỉ định của bác sĩ"
+        ],
+        "image": [
+            "assets/images/qt-cangda.jpg"
+        ],
+        "service": "Căng Da (PT)"
+    }
+]

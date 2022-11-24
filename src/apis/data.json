@@ -1,0 +1,677 @@
+[{
+        "id": "1",
+        "level": "Tiến sĩ, bác sĩ",
+        "avatar": "assets/images/huy.png",
+        "name": "DR. RICHARD HUY",
+        "service": ["Cắt Mí", "Nâng Mũi", "Nâng Ngực", "Hàm Mặt", "Giảm Mỡ", "Cấy Mỡ", "Trẻ Hóa Da", "Tạo Hình Môi","Căng Da (PT)"],
+        "job": "Tiến sĩ, bác sĩ",
+        "exp": " 20 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail": {
+            "doctor_level": "Tiến sĩ, bác sĩ",
+            "experience": [
+                "- Tiến sỹ Y học - Đại học Y Hà Nội",
+                "- Thạc sỹ Ngoại khoa - Đại học Y Hà Nội",
+                "- Bác sĩ Đa khoa - Đại học Y dược Thái Nguyên",
+                "- Chứng chỉ Định hướng chuyên khoa Phẫu thuật tạo hình",
+                "- Chứng chỉ Kiến thức và thực hành cơ bản phẫu thuật Hàm mặt",
+                "- 20 năm kinh nghiệm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [
+                "- Trưởng Ekip Hành trình lột xác",
+                "- Thành viên hiệp hội thẩm mỹ KCCS",
+                "- Thành viên hiệp hội thẩm mỹ Việt Nam VSAP",
+                "- Thành viên hiệp hội thẩm mỹ quốc tế Mỹ"
+            ],
+            "prize": [
+                "- Học bổng và ghi nhận cống hiến - Đại học Hàn Quốc",
+                "- Giải thưởng bàn tay vàng - Top 5 chuyên gia thẩm mỹ hàng đầu"
+            ]
+        }
+    },
+    {
+        "id": "2",
+        "level": "Giáo sư, bác sĩ",
+        "avatar": "assets/images/hwang.png",
+        "name": "DR. KIM JEONG HWANG",
+        "service": ["Cắt Mí", "Nâng Mũi", "Trẻ Hóa Da","Căng Da (PT)"],
+        "job": "Giáo sư, bác sĩ",
+        "exp": " 30 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "Giáo sư, bác sĩ",
+            "experience": [
+                "- Giáo sư Bệnh viện Đại học Quốc Gia Seoul",
+                "- Giáo sư Đại học Y Khoa Inje và Bệnh viện Đa khoa Paik",
+                "- Chứng chỉ Bác sĩ phẫu thuật thẩm mỹ & Da liễu được cấp bởi Bộ Y Tế Việt Nam ",
+                "- 30 năm kinh nghiệm trẻ hóa và phẫu thuật thẩm mỹ"
+            ],
+            "origin": [
+                "- Người sáng lập đồng thời là Giám đốc của Hệ thống phòng khám Talmode",
+                "- Chuyên điều trị về tóc & Phẫu thuật thẩm mỹ ( 70 phòng khám tại Hàn Quốc)",
+                "- Cố vấn cấp cao công ty Dược phẩm Daewoong - Top 10 công Dược tốt nhất Hàn Quốc",
+                "- Cố vấn sắc đẹp của nhiều ngôi đình đám Hàn Quốc: Park So Yeon (T-ara), Choi Ji Woo ( Nấc thang lên thiên đường), Lee Wan, 'tường thành Kpop' Eugene (S.E.S)"
+            ],
+            "prize": [
+                "- Giải thưởng ngành Làm đẹp Hàn Quốc năm 2014 được trao bởi Seoul Plastic Surgery",
+                "- Giải thưởng sản phẩm và công nghệ CSI tốt nhất Hàn Quốc năm 2016, được trao bởi Inje Business"
+            ]
+        }
+    },
+    {
+        "id": "3",
+        "level": "Trưởng khoa",
+        "avatar": "assets/images/felix.png",
+        "name": "DR. FELIX TRẦN",
+        "service": ["Nâng Mũi", "Trẻ Hóa Da","Căng Da (PT)"],
+        "job": "Bác sĩ",
+        "exp": " 22 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "id": 9,
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp đại học Y Thái Nguyên",
+              "- Bằng chuyên khoa cấp I chuyên ngành chấn thương chỉnh hình",
+              "- Chứng chỉ phẫu thuật tạo hình thẩm mỹ Trường đại học Y Dược TP. HCM",
+              "- Chứng chỉ quản lý Bệnh Viên, quản lý chất lượng Bệnh Viện Trường Đại Học Y Dược TP.HCM",
+              "- Chứng chỉ kiến thức và thực hành cơ bản Phẫu thuật hàm mặt",
+              "- 22 năm kinh nghiệm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [
+              "- Giám đốc chuyên môn BVTM Kangnam Sài Gòn",
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "4",
+        "level": "Trưởng khoa",
+        "avatar": "assets/images/harvey.png",
+        "name": "DR.HARVEY NGUYỄN",
+        "service": ["Nâng Mũi"],
+        "job": "Bác sĩ",
+        "exp": " 20 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- CKI ngoại - Đại học Y Hà Nội",
+              "- Tốt nghiệp Đại học Y dược Thái Nguyên",
+              "- Chứng chỉ định hướng khuyên khoa mắt",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình thẩm mỹ",
+              "- Chứng chỉ hành nghề ngoại khoa",
+              "- Chứng chỉ hành nghề tạo hình và thẩm mỹ",
+              "- 20 năm kinh nghiệm phẫu thuật tạo hình và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "5",
+        "level": "Trưởng khoa",
+        "avatar": "assets/images/Victor-Vu.png",
+        "name": "DR. VICTOR VŨ",
+        "service": ["Hàm Mặt"],
+        "job": "Bác sĩ",
+        "exp": " 18 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y dược Thái Nguyên",
+              "- CKI Răng Hàm Mặt",
+              "- Chứng chỉ kiến thức và thực hành cơ bản Phẫu thuật Hàm mặt",
+              "- Chứng chỉ Định hướng chuyên khoa Phẫu thuật tạo hình",
+              "- Chứng nhận hoàn thành khóa đào tạo Implant nha khoa của BV Răng Hàm Mặt Trung ương Hà Nội",
+              "- 18 năm kinh nghiệm phẫu thuật hàm mặt"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "6",
+        "level": "Trưởng khoa",
+        "avatar": "assets/images/tony-cuong.png",
+        "name": "DR.TONY CƯỜNG",
+        "service": ["Cắt Mí", "Cấy Mỡ", "Trẻ Hóa Da", "Tạo Hình Môi","Căng Da (PT)"],
+        "job": "Bác sĩ",
+        "exp": " 14 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y dược TP.HCM",
+              "- CKI Răng Hàm Mặt",
+              "- Chứng chỉ Phẫu thuật Hàm mặt cơ bản",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình thẩm mỹ",
+              "- Chứng nhận Implant nha khoa của Đại học Y Dược Cần Thơ",
+              "- Chứng chỉ hành nghề tạo hình và thẩm mỹ",
+              "- 14 năm kinh nghiệm phẫu thuật tạo hình thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "7",
+        "level": "Phó khoa",
+        "avatar": "assets/images/Steven-hoàng-IMG_0024.png",
+        "name": "DR.ALBERT BÙI",
+        "service": ["Nâng Ngực", "Giảm Mỡ"],
+        "job": "Bác sĩ",
+        "exp": " 10 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail": {
+            "id": 5,
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Dược Thái Nguyên",
+              "- Chứng chỉ định hướng chuyên khoa phẫu thuật tạo hình - tái tạo và thẩm mỹ",
+              "- 10 năm kinh nghiệm phẫu thuật tạo hình - tái tạo và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "8",
+        "level": "Trưởng khoa",
+        "avatar": "assets/images/Kevin-Pham.png",
+        "name": "DR. KEVIN PHẠM",
+        "service": ["Cắt Mí", "Nâng Mũi", "Cấy Mỡ", "Trẻ Hóa Da", "Tạo Hình Môi","Căng Da (PT)"],
+        "job": "Thạc sĩ, bác sĩ",
+        "exp": " 8 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "THẠC SĨ, BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Hải Phòng",
+              "- Thạc sỹ Y học - Đại học Y Hà Nội",
+              "- Bác sĩ Đa khoa - Đại học Y Dược Hải Phòng",
+              "- 8 năm kinh nghiệm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên hiệp hội thẩm mỹ KCCS"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "9",
+        "level": "Trưởng khoa",
+        "avatar": "assets/images/garrik-hoàng.png",
+        "name": "DR.GARICK HOÀNG",
+        "service": ["Nâng Ngực", "Giảm Mỡ", "Trẻ Hóa Da", "Tạo Hình Môi","Căng Da (PT)"],
+        "job": "Bác sĩ",
+        "exp": " 8 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Hà Nội",
+              "- Bác sĩ Đa khoa - Đại học Y Hà Nội",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình thẩm mỹ và tái tạo",
+              "- 8 năm kinh nghiệm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên hiệp hội thẩm mỹ KCCS"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "10",
+        "level": "Phó khoa",
+        "avatar": "assets/images/david.png",
+        "name": "DR. DAVID NGUYỄN",
+        "service": ["Cắt Mí", "Cấy Mỡ", "Trẻ Hóa Da", "Tạo Hình Môi","Căng Da (PT)"],
+        "job": "Thạc sĩ, Bác sĩ",
+        "exp": " 11 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "THẠC SĨ, BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Dược Huế",
+              "- Thạc sĩ, bác sĩ nội trú Ngoại khoa",
+              "- Chứng chỉ định hướng Phẫu thuật tạo hình và thẩm mỹ",
+              "- 11 năm kinh nghiệm phẫu thuật tạo hình và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "11",
+        "level": "Phó khoa",
+        "avatar": "assets/images/Ji-huyn-huỳnh-IMG_0165.png",
+        "name": "DR.JIHUN HUỲNH",
+        "service": ["Nâng Mũi"],
+        "job": "Bác sĩ",
+        "exp": " 10 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail" :{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Khoa Phạm Ngọc Thạch",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình và thẩm mỹ",
+              "- 10 năm kinh nghiệm phẫu thuật tạo hình và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Ekip Hành trình lột xác",
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "12",
+        "level": "Phó khoa",
+        "avatar": "assets/images/mark-nguyễn-IMG_0246.png",
+        "name": "DR. MARK NGUYỄN",
+        "service": ["Cắt Mí", "Tạo Hình Môi"],
+        "job": "Bác sĩ",
+        "exp": " 10 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "id": 8,
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại Học Y Hà Nội",
+              "- Chứng chỉ định hướng chuyên khoa Ngoại Thần Kinh- Bệnh viện Chợ Rẫy",
+              "- Chứng chỉ định hướng chuyên khoa phẫu thuật tạo hình - tái tạo và thẩm mỹ",
+              "- Đã làm việc tại Bệnh viện Trung ương Quân đội 108",
+              "- 10 năm kinh nghiệm phẫu thuật tạo hình - tái tạo và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "13",
+        "level": "Phó khoa",
+        "avatar": "assets/images/Thomas-IMG_0077.png",
+        "name": "DR.THOMAS NGUYỄN",
+        "service": ["Cắt Mí", "Nâng Ngực", "Giảm Mỡ"],
+        "job": "Bác sĩ",
+        "exp": " 9 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "image": "assets/images/Thomas-IMG_0077.png",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Khoa Phạm Ngọc Thạch",
+              "- CKI Chấn thương chỉnh hình",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình thẩm mỹ",
+              "- 9 năm kinh nghiệm phẫu thuật tạo hình và thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "14",
+        "level": "Phó khoa",
+        "avatar": "assets/images/hoang.png",
+        "name": "DR.STEVEN HOÀNG",
+        "service": ["Cắt Mí", "Nâng Ngực", "Giảm Mỡ"],
+        "job": "Bác sĩ",
+        "exp": " 9 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Học Viện Quân Y",
+              "- Chứng chỉ định hướng Ck phẫu thuật tạo hình - tái tạo và thẩm mỹ",
+              "- 9 năm kinh nghiệm phẫu thuật tạo hình - tái tạo và thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "15",
+        "level": "Phó khoa",
+        "avatar": "assets/images/joyce-nguyễn-IMG_0172.png",
+        "name": "DR.JOYCE NGUYỄN",
+        "service": ["Hàm Mặt"],
+        "job": "Bác sĩ",
+        "exp": " 8 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail": {
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+                "- Tốt nghiệp Đại học Y Dược Thái Nguyên",
+                "- Chứng chỉ Kiến thức và thực hành cơ bản Phẫu thuật hàm mặt",
+                "- Chứng chỉ Định hướng Phẫu thuật tạo hình",
+                "- 8 năm kinh nghiệm phẫu thuật tạo hình"
+            ],
+            "origin": [
+                "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+        }
+    },
+    {
+        "id": "16",
+        "level": "Phó khoa",
+        "avatar": "assets/images/frankie-vu-IMG_0222.png",
+        "name": "DR.FRANKIE VŨ",
+        "service": ["Nâng Mũi"],
+        "job": "Bác sĩ",
+        "exp": " 7 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail": {
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Học viện Quân Y",
+              "- Chứng chỉ định hướng chuyên khoa phẫu thuật tạo hình và thẩm mỹ",
+              "- 7 năm kinh nghiệm phẫu thuật tạo hình và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "17",
+        "level": "Phó khoa",
+        "avatar": "assets/images/Henry-nguyen.png",
+        "name": "DR. HENRY NGUYỄN",
+        "service": ["Cắt Mí", "Nâng Mũi", "Cấy Mỡ", "Trẻ Hóa Da", "Tạo Hình Môi","Căng Da (PT)"],
+        "job": "Bác sĩ",
+        "exp": " 6 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y dược Thái Nguyên",
+              "- CKI Ngoại khoa - Đại học Y Hà Nội",
+              "- Bác sĩ đa khoa - Đại học Y Dược Thái Nguyên",
+              "- Chứng chỉ định hướng phẫu thuật và tạo hình thẩm mỹ",
+              "- 6 năm kinh nghiệm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "18",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/pack-phi-IMG_0205.png",
+        "name": "DR.PACK PHI",
+        "service": ["Nâng Mũi", "Cấy Mỡ", "Trẻ Hóa Da"],
+        "job": "Bác sĩ",
+        "exp": " 16 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Tây Nguyên",
+              "- Chứng chỉ chuyên khoa phẫu thuật tạo hình - tái tạo và thẩm mỹ",
+              "- 16 năm kinh nghiệm phẫu thuật tạo hình - tái tạo và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "19",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/Louis-trương-IMG_0179.png",
+        "name": "DR.LOUIS TRƯƠNG",
+        "service": ["Nâng Mũi", "Cấy Mỡ", "Tạo Hình Môi","Căng Da (PT)"],
+        "job": "Bác sĩ",
+        "exp": " 8 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail": {
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Thái Bình",
+              "- Chứng chỉ định hướng chuyên khoa phẫu thuật tạo hình và thẩm mỹ",
+              "- 8 năm kinh nghiệm phẫu thuật tạo hình và thẩm mỹ"
+            ],
+            "origin": [
+              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+            ],
+            "prize": []
+        }
+    },
+    {
+        "id": "20",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/gevin-Nguyen.png",
+        "name": "DR.GALVIN NGUYỄN",
+        "service": ["Nâng Ngực", "Giảm Mỡ"],
+        "job": "Thạc sĩ, Bác sĩ",
+        "exp": " 8 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "THẠC SĨ, BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Thái Bình",
+              "- Thạc sỹ Ngoại khoa - Đại học Y Hà Nội",
+              "- Bác sĩ đa khoa - Đại học Y Dược Thái Bình",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình thẩm mỹ",
+              "- Chứng chỉ kỹ năng trong phẫu thuật cấp cứu tim mạch và lồng ngực",
+              "- Chứng chỉ phẫu thuật nội soi cơ bản",
+              "- Chứng chỉ liệu pháp Mesotherapy trong thẩm mỹ da.",
+              "- Chứng chỉ ứng dụng công nghệ Laser trong điều trị",
+              "- 8 năm kinh nghiệm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "21",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/william-t.png",
+        "name": "DR.WILIAM T.HAI",
+        "service": ["Cắt Mí"],
+        "job": "Bác sĩ",
+        "exp": " 7 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Hà Nội",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình thẩm mỹ",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình thẩm mỹ",
+              "- 7 năm kinh nghiệm phẫu thuật tạo hình thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "22",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/Patrick-Ho.png",
+        "name": "DONALD TRUNG",
+        "service": ["Cắt Mí", "Nâng Mũi", "Tạo Hình Môi"],
+        "job": "Bác sĩ",
+        "exp": " 6 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Hà Nội",
+              "- Bác sĩ Răng Hàm Mặt - Đại học Y Hà Nội",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình và thẩm mỹ",
+              "- 6 năm kinh nghiệm phẫu thuật răng hàm mặt - phẫu thuật thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "23",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/Alex-han.png",
+        "name": "DR. ALEX HAN",
+        "service": ["Hàm Mặt"],
+        "job": "Bác sĩ",
+        "exp": " 6 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Học viện quân y 2017",
+              "- Bác sĩ Đa khoa - Học viện Quân y",
+              "- Chứng chỉ định hướng và kiến thức tạo hình thẩm mỹ - Đại học y Dược TP HCM",
+              "- Chứng chỉ kiến thức và thực hành cơ bản Phẫu thuật hàm mặt - Giỏi",
+              "- 6 năm kinh nghiệm phẫu thuật Răng hàm mặt"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "24",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/Annie-Le.png",
+        "name": "DR. ANNIE LÊ",
+        "service": ["Hàm Mặt", "Cấy Mỡ", "Trẻ Hóa Da","Căng Da (PT)"],
+        "job": "Bác sĩ",
+        "exp": " 6 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Hà Nội",
+              "- Bác sĩ Răng Hàm Mặt - Đại học Y Hà Nội",
+              "- Chứng chỉ kiến thức và thực hành cơ bản Phẫu thuật hàm mặt",
+              "6 năm kinh nghiệm phẫu thuật Răng hàm mặt"
+            ],
+            "origin": [
+              "- Thành viên Ekip Hành trình lột xác"
+            ],
+            "prize": []
+          }
+    },
+    {
+        "id": "25",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/charlie-nguyen.png",
+        "name": "DR. CHARLIE NGUYỄN",
+        "service": ["Nâng Mũi", "Cấy Mỡ"],
+        "job": "Bác sĩ",
+        "exp": " 4 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y dược TP. HCM",
+              "- Chứng chỉ định hướng chuyên khoa phẫu thuật tạo hình - tái tạo và thẩm mỹ",
+              "- 4 năm kinh nghiệm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "26",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/harry-duong.png",
+        "name": "DR.HARRY DƯƠNG",
+        "service": ["Cắt Mí"],
+        "job": "Bác sĩ",
+        "exp": " 3 năm kinh nghiệm",
+        "more": " Xem thêm",
+        "adress": "Hồ Chí Minh",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Tây Nguyên",
+              "- Chứng chỉ định hướng chuyên khoa phẫu thuật tạo hình thẩm mỹ",
+              "- 3 năm kinh nghiêm phẫu thuật thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    },
+    {
+        "id": "27",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/Daniel.png",
+        "name": "DR.DANIEL NGUYỄN",
+        "service": ["Cắt Mí", "Nâng Mũi"],
+        "job": "Bác sĩ",
+        "exp": "",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Y Hà Nội 2014",
+              "- Bác sĩ đa khoa - Đại học Y Hà Nội",
+              "- Bác sĩ hồi sức cấp cứu - Bệnh viện Nhiệt đới Trung Ương",
+              "- Chứng chỉ định hướng chuyên khoa Phẫu thuật tạo hình và thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    
+    },
+    {
+        "id": "28",
+        "level": "Chuyên khoa",
+        "avatar": "assets/images/Robinson.png",
+        "name": "DR. ROBINSON",
+        "service": ["Nâng Ngực", "Giảm Mỡ", "Cấy Mỡ"],
+        "job": "Bác sĩ",
+        "exp": "",
+        "more": " Xem thêm",
+        "adress": "Hà Nội",
+        "detail":{
+            "doctor_level": "BÁC SĨ",
+            "experience": [
+              "- Tốt nghiệp Đại học Võ Trường Toản",
+              "- Bác sĩ Đa khoa - Đại học Võ Trường Toản",
+              "- Chứng chỉ định hướng chuyên khoa phẫu thuật tạo hình thẩm mỹ"
+            ],
+            "origin": [],
+            "prize": []
+          }
+    }
+]
