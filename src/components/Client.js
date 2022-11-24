@@ -1,6 +1,6 @@
 
 import { getClientByService } from "../apis/client.js"
-import ClientItem from "./Clientitem.js"
+import ClientItem from "./ClientItem.js"
 import Sidebar from "./Sidebar.js"
 
 class Client {
