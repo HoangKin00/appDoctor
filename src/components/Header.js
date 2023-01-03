@@ -2,13 +2,11 @@
 import HeaderItem from "./HeaderItem.js"
 
 class Header {
-    constructor({container,menu}) {
-        this.container = container
+    constructor({menu,getLayout}) {
+        this.getLayout=getLayout
         this.menu = menu
         this.$header = document.createElement('header')
         this.$header.className = 'header'
-
-        
 
         this.$container = document.createElement('div')
         this.$container.className = 'container'
@@ -50,7 +48,7 @@ class Header {
             this.closeHeader()
         })
 
-        this.renderItem()
+        
 
     }
     clickNav = () => {
@@ -66,12 +64,11 @@ class Header {
     renderItem = () => {
         this.$ul.innerHTML = ''
         for (let item of this.menu) {
-            this.$item = new HeaderItem({ ...item,container:this.container, menu: this.menu, closeHeader:this.closeHeader })
+            this.$item = new HeaderItem({ ...item, menu: this.menu,getLayout:this.getLayout, closeHeader:this.closeHeader})
             this.$ul.appendChild(this.$item.render())
         }
         return this.$ul
     }
-
     render() {
         this.$header.appendChild(this.$container);
         this.$container.appendChild(this.$nav);
@@ -84,7 +81,7 @@ class Header {
         this.$main.appendChild(this.$ul);
         this.$main.appendChild(this.$bgActive)
         this.$ul.appendChild(this.$headerBg)
-
+        this.renderItem()
         return this.$header
     }
 }

@@ -73,7 +73,6 @@
             "assets/images/hut-mo-5.jpg",
             "assets/images/hutmo-8.jpg",
             "assets/images/hutmo-9.jpg",
-            "assets/images/hutmo-10.jpg",
             "assets/images/hutmo-11.jpg",
             "assets/images/hutmo-12.jpg"
         ],
@@ -102,11 +101,12 @@
             "assets/images/p11.png",
             "assets/images/p13.png",
             "assets/images/p14.png",
+            "assets/images/p15.png",
+            "assets/images/p16.png",
             "assets/images/pic1.png",
             "assets/images/pic3.png",
             "assets/images/pic4.png",
-            "assets/images/pic-6.png",
-            "assets/images/pic10.png"
+            "assets/images/pic10.png" 
         ],
         "service": "Trẻ Hóa Da"
     },
@@ -129,10 +129,11 @@
     {
         "id": "9",
         "image": [
-            "assets/images/pic2.png",
-            "assets/images/cangda-2.jpg",
-            "assets/images/cangda-3.jpg",
-            "assets/images/cangda-1.jpg"
+            "assets/images/cangda-2.png",
+            "assets/images/cangda-3.png",
+            "assets/images/cangda-4.png",
+            "assets/images/cangda-1.png",
+            "assets/images/cangda-5.png"
         ],
         "service": "Căng Da (PT)"
     }

@@ -7,6 +7,9 @@ class DoctorItem {
 
         this.$cus = document.createElement('div')
         this.$cus.className = 'screen1__cus'
+        this.$cus.addEventListener('click', () => {
+            this.openModal()
+        })
 
         this.$modal = document.createElement('div')
         this.$modal.className = 'modal-btn'
@@ -36,9 +39,6 @@ class DoctorItem {
         this.$more.className = 'modal-btn'
         this.$more.innerHTML = 'Xem thêm'
 
-        this.$more.addEventListener('click', () => {
-            this.openModal()
-        })
     }
     openModal = () => {
         app.appendChild(this.$doctorDetail.render())

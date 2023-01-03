@@ -63,27 +63,27 @@
     {
         "id": "3",
         "level": "Trưởng khoa",
-        "avatar": "assets/images/felix.png",
-        "name": "DR. FELIX TRẦN",
-        "service": ["Nâng Mũi", "Trẻ Hóa Da","Căng Da (PT)"],
+        "avatar": "assets/images/lucas.png",
+        "name": "DR. LUCAS HOÀNG",
+        "service": ["Nâng Mũi","Nâng Ngực","Cắt Mí","Giảm Mỡ","Cấy Mỡ","Căng Da (PT)"],
         "job": "Bác sĩ",
-        "exp": " 22 năm kinh nghiệm",
+        "exp": " 15 năm kinh nghiệm",
         "more": " Xem thêm",
         "adress": "Hồ Chí Minh",
         "detail":{
             "id": 9,
             "doctor_level": "BÁC SĨ",
             "experience": [
-              "- Tốt nghiệp đại học Y Thái Nguyên",
-              "- Bằng chuyên khoa cấp I chuyên ngành chấn thương chỉnh hình",
-              "- Chứng chỉ phẫu thuật tạo hình thẩm mỹ Trường đại học Y Dược TP. HCM",
-              "- Chứng chỉ quản lý Bệnh Viên, quản lý chất lượng Bệnh Viện Trường Đại Học Y Dược TP.HCM",
-              "- Chứng chỉ kiến thức và thực hành cơ bản Phẫu thuật hàm mặt",
-              "- 22 năm kinh nghiệm phẫu thuật thẩm mỹ"
+              "- Tốt nghiệp Đại học Y Hà Nội ",
+              "- Bằng chuyên khoa Phẫu thuật thẩm mỹ tạo hình tại Đại học Y Hà Nội",
+              "- 15 năm kinh nghiệm phẫu thuật thẩm mỹ"
             ],
             "origin": [
-              "- Giám đốc chuyên môn BVTM Kangnam Sài Gòn",
-              "- Thành viên Hiệp hội Thẩm mỹ Hàn Quốc"
+              "- Giám đốc chuyên môn phẫu thuật thẩm mỹ BVTM Kangnam Sài Gòn ",
+              "- Trưởng nhóm Đại Phẫu BVTM Kangnam Sài Gòn",
+              "Thành viên Hội phẫu thuật tạo hình - Thẩm mỹ Việt Nam (VSAPS)",
+              "Thành viên Hội phẫu thuật thẩm mỹ Châu Á - Thái Bình Dương",
+              "Thành viên Hiệp hội thẩm mỹ và tái tạo gương mặt Hàn Quốc (KAFPRS)"
             ],
             "prize": []
           }

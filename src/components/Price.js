@@ -15,7 +15,7 @@ class Price {
         this.$priceBox.className = 'screen1__price'
 
         this.$table = document.createElement('table')
-        this.$table.className = 'table'
+        this.$table.className = 'screen1__table table table-bordered'
 
         this.$thead = document.createElement('thead')
 

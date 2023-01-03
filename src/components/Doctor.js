@@ -23,13 +23,13 @@ class Doctor {
     }
     setAddress = (address) => {
         this.address = address
-        this.renderItem()
         this.renderSidebar()
+        this.renderItem()
     }
     setValue = (value) => {
         this.value = value
-        this.renderItem()
         this.renderSidebar()
+        this.renderItem()
     }
     renderSidebar = () => {
         this.$detail.innerHTML = ''

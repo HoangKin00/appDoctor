@@ -1,16 +1,16 @@
-import { getComponent } from "../util/getComponents.js"
+
 
 class HeaderItem {
-    constructor({ title, link, container, menu, closeHeader }) {
+    constructor({ title, link, menu, closeHeader,getLayout }) {
+        this.getLayout=getLayout
         this.closeHeader = closeHeader
-        this.container = container
         this.menu = menu
         this.link = link
         this.$item = document.createElement('li')
-        this.$item.className = 'header__item nav-item'
+        this.$item.className =`header__item nav-item ${sessionStorage.getItem('link') === this.link ? 'active' : ''} `
 
         this.$nav = document.createElement('a')
-        this.$nav.className = 'nav-link'
+        this.$nav.className = `nav-link ${sessionStorage.getItem('link') === this.link ? 'active' : ''} `
         this.$nav.innerHTML = title
         this.$nav.addEventListener('click', () => {
             this.getInfo()
@@ -19,7 +19,7 @@ class HeaderItem {
     }
     getInfo = () => {
         sessionStorage.setItem('link', this.link)
-        getComponent(this.container, this.menu)
+        this.getLayout()
         this.closeHeader()
     }
     render() {

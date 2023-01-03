@@ -5,21 +5,26 @@ class Home {
     constructor() {
         this.$body = document.createElement('div')
         this.$body.className = 'body'
-
+        this.$nav = document.createElement('div')
+        
         this.$container = document.createElement('div')
         this.$container.className = 'main'
        
         this.$box = document.createElement('div')
-        this.$header = new Header({container:this.$box, menu: menu})
+        this.$header = new Header({ menu: menu,getLayout :this.getLayout})
     }
-    render(){
+    getLayout= ()=>{
         if(!sessionStorage.getItem('link')){
             sessionStorage.setItem('link','bac-si')
         }
-        getComponent(this.$box, menu)
-        this.$body.appendChild(this.$header.render())
+        this.$nav.appendChild(this.$header.render())
+        getComponent(this.$box, menu,'link')
+    }
+    render(){
+        this.$body.appendChild(this.$nav)
         this.$body.appendChild(this.$container)
         this.$container.appendChild(this.$box)
+        this.getLayout()
         return this.$body
     }
 }
