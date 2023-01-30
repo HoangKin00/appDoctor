@@ -43,16 +43,25 @@ class Promotion {
         SALE LỚN NHẤT NĂM
         </div>
         <div class="screen6__text">
-            <p><b>1. COMBO ĐẸP ĐỘT PHÁ</b></p>
-            <p><li>Khi Nâng ngực/ Hút mỡ: <b>Giảm thêm 3%</b> cho Nâng mũi/ Cắt mí/ Thẩm mỹ môi.</li></p>
-            <p><li>Khi Nâng mũi: <b>Giảm thêm 3%</b> cho Cắt mí/ Thẩm mỹ môi.</li></p>
-            <p><b>2. ƯU ĐÃI ĐẸP TOÀN DIỆN</b></p>
-            <p><li>Tẩy nốt ruồi mức 1 chỉ với giá <b>99.000đ</b></li></p>
-            <p><li>Cạo vôi và đánh bóng răng mức 1, mức 2 – <b>đồng giá 150.000đ</b></li></p>
-            <p><li><b>Giảm 40% Phun xăm </b>khi kết hợp PTTM.</li></p>
-            <p><li><b>Giảm 50% </b>Tẩy trắng răng Laser Whitening/ Trám răng thẩm mỹ/ Nhổ răng cho khách hàng PTTM.</li></p>
-            <p><li><b>Giảm thêm 5% </b>Cấy mỡ toàn mặt / Căng chỉ toàn mặt / Trẻ hóa Mi Young khi thực hiện tiểu/ đại phẫu.</li></p>
-            <p><li><b>Giảm thêm 5% </b>Treo sa trễ/ Tạo hình vú/ Nâng ngực mỡ tự thân khi hút mỡ toàn bụng.</li></p>
+            <p><b>1. KHAI XUÂN – HÁI LỘC TRÚNG VÀNG 9999 </b></p>
+            <p><li><b>10 Chỉ vàng 9999</b></li></p>
+            <p><li><b>5 Nhẫn</b> Kim tiền 18K </li></p>
+            <p><li><b>10 Voucher</b> 50% thẩm mỹ, lựa chọn 1 trong các dịch vụ sau: (Nâng mũi Sline 3D/ Cấu trúc 4D/ Cắt mí Plasma/ Thu mỏng môi/ Tạo môi tim/ Nâng ngực K-Nature 4D/ Giảm mỡ 4D/ Trẻ hóa Mi Young (mỗi cơ sở 1 suất) </li></p>
+            <p><li>299 <b>Lì xì 100K – 200K</b> cho hóa đơn từ 1TR </li></p>
+            <p><li>100 Voucher <b>Phun xăm -50%</b></li></p>
+            <p><li>100 Voucher chăm sóc nha chu <b>EMS mức 1</b></li></p>
+            <p><li>80 Voucher chăm sóc da miễn phí trị giá tới <b>2 Triệu </b></li></p>
+            <p><i>* Khách hàng trúng suất -50% cần đồng ý cho quay chụp dữ liệu, cho phép sử dụng hình ảnh truyền thông (trước – trong và sau dịch vụ)</i></p>
+            <p><i>* Trường hợp khách không đồng ý, cho phép quay lại.</i></p>
+            <p><b>2. COMBO SIÊU ƯU ĐÃI </b></p>
+            <p><li>Khi Nâng ngực/ Hút mỡ: <b>Giảm thêm 3%</b> cho nâng mũi/ Cắt mí/ Thẩm mỹ môi</li></p>
+            <p><li>Khi Nâng mũi: <b>Giảm thêm 3%</b> cho Cắt mí/ Thẩm mỹ môi</li></p>
+            <p><i>* Không áp dụng cộng dồn với chương trình đặt cọc trước </i></p>
+            <p><b>3. TRI ÂN KHÁCH HÀNG PTTM </b></p>
+            <p><li><b>Giảm 40% </b>Phun xăm khi kết hợp PTTM</li></p>
+            <p><li><b>Giảm 50% </b>Tẩy trắng răng Laser Whitening/ Trám răng thẩm mỹ/ Nhổ răng cho khách hàng PTTM</li></p>
+            <p><li><b>Giảm thêm 5% </b>Cấy mỡ toàn mặt / Căng chỉ toàn mặt / Trẻ hóa Mi Young khi thực hiện tiểu phẫu, đại phẫu</li></p>
+            <p><li>Tặng 1 buổi chăm sóc da <b>miễn phí</b> (điện di C/ điện di cho khách hàng đăng ký dịch vụ VIP)</li></p>
         </div>
     </div>
 </div>
